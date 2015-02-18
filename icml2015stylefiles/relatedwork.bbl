@@ -1,0 +1,43 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Chen et~al.(2010)Chen, Liu, Liu, and Carbonell]{climate}
+Chen, Xi, Liu, Yan, Liu, Han, and Carbonell, Jaime~G.
+\newblock Learning spatial-temporal varying graphs with applications to climate
+  data analysis.
+\newblock In \emph{Proceedings of the Twenty-Fourth {AAAI} Conference on
+  Artificial Intelligence, {AAAI} 2010, Atlanta, Georgia, USA, July 11-15,
+  2010}, 2010.
+\newblock URL
+  \url{http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1644}.
+
+\bibitem[Chiquet et~al.(2011)Chiquet, Grandvalet, and Ambroise]{multiGraph}
+Chiquet, Julien, Grandvalet, Yves, and Ambroise, Christophe.
+\newblock Inferring multiple graphical structures.
+\newblock \emph{Statistics and Computing}, 21\penalty0 (4):\penalty0 537--553,
+  2011.
+\newblock ISSN 0960-3174.
+\newblock \doi{10.1007/s11222-010-9191-2}.
+\newblock URL \url{http://dx.doi.org/10.1007/s11222-010-9191-2}.
+
+\bibitem[Xing et~al.(2010)Xing, Fu, and Song]{mixedmembership}
+Xing, Eric~P., Fu, Wenjie, and Song, Le.
+\newblock {A state-space mixed membership blockmodel for dynamic network
+  tomography}.
+\newblock \emph{Annals of Applied Statistics}, 4\penalty0 (2):\penalty0
+  535--566, 2010.
+\newblock URL
+  \url{http://projecteuclid.org/DPubS?service=UI\&\#38;version=1.0\&\#38;verb=Display\&\#38;handle=euclid.aoas/1280842130}.
+
+\bibitem[Yuan \& Lin(2007)Yuan and Lin]{graphicalLasso}
+Yuan, Ming and Lin, Yi.
+\newblock Model selection and estimation in the gaussian graphical model.
+\newblock \emph{Biometrika}, 94\penalty0 (1):\penalty0 19--35, 2007.
+\newblock \doi{10.1093/biomet/asm018}.
+\newblock URL \url{http://biomet.oxfordjournals.org/content/94/1/19.abstract}.
+
+\end{thebibliography}

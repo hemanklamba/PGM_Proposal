@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: relatedwork.aux
+The style file: icml2015.bst
+Database file #1: related.bib
+A bad cross reference---entry "climate"
+refers to entry "DBLP:conf/aaai/2010", which doesn't exist
+Warning--I didn't find a database entry for "DBLP:conf/aaai/2010"
+You've used 4 entries,
+            2773 wiz_defined-function locations,
+            629 strings with 5957 characters,
+and the built_in function-call counts, 2053 in all, are:
+= -- 186
+> -- 120
+< -- 1
++ -- 40
+- -- 36
+* -- 186
+:= -- 325
+add.period$ -- 19
+call.type$ -- 4
+change.case$ -- 24
+chr.to.int$ -- 4
+cite$ -- 8
+duplicate$ -- 86
+empty$ -- 162
+format.name$ -- 42
+if$ -- 425
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 4
+newline$ -- 35
+num.names$ -- 16
+pop$ -- 38
+preamble$ -- 1
+purify$ -- 20
+quote$ -- 0
+skip$ -- 63
+stack$ -- 0
+substring$ -- 69
+swap$ -- 5
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 44
+warning$ -- 0
+while$ -- 16
+width$ -- 0
+write$ -- 72
+(There was 1 error message)
